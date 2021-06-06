@@ -19,6 +19,3 @@ deploy:
     branch: tag
     repo: <your_github_username>/<your_repo_name>
 
-notifications:
- email:
-   - one@example.com(replace by your e-mail)
