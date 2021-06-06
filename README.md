@@ -1,4 +1,4 @@
-Travis CI => select your repository => click the build status image => select FORMAT as Markdown => Copy the code of RESULT => paste in the top line of readme.md
+[![Build Status](https://www.travis-ci.com/zxy920/Travis_CI_Tutorial.svg?branch=main)](https://www.travis-ci.com/zxy920/Travis_CI_Tutorial)
 Codecov =>select your repository => Setting => Bedge => Copy the contect of Markdown => paste in the second line of readme.md
 
 # How to Use Travis CI with Java on GitHub
