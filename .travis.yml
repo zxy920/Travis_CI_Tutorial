@@ -19,3 +19,6 @@ deploy:
     branch: tag
     repo: <your_github_username>/<your_repo_name>
 
+notifications:
+ email:
+   - 2464263670@qq.com(replace by your e-mail)
