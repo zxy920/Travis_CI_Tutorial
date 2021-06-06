@@ -1,5 +1,5 @@
 [![Build Status](https://www.travis-ci.com/zxy920/Travis_CI_Tutorial.svg?branch=main)](https://www.travis-ci.com/zxy920/Travis_CI_Tutorial)
-Codecov =>select your repository => Setting => Bedge => Copy the contect of Markdown => paste in the second line of readme.md
+[![codecov](https://codecov.io/gh/zxy920/Travis_CI_Tutorial/branch/main/graph/badge.svg?token=B5GMTFXEJ4)](https://codecov.io/gh/zxy920/Travis_CI_Tutorial)
 
 # How to Use Travis CI with Java on GitHub
 This repository is a demo of how to use [Travis CI](https://docs.travis-ci.com/) in a Java project on GitHub.
